@@ -12,7 +12,7 @@ Preview.118 is the corrected update bootstrap for Windows PowerShell5.1. Earlier
 
 ## Later updates
 
-Open Settings → General → Check for updates, review the release notes, download and verify, then choose Restart and install. Pending tasks and approvals must finish first. The updater retains paired program and workspace backups and confirms that the selected workspace and Native service are ready.
+The main sidebar shows a reminder when a newer version is available. Select it, or open Settings → General → Check for updates, review the release notes, download and verify, then choose Restart and install. Background checks read public version metadata only; downloading and installation always require your action. Pending tasks and approvals must finish first. The updater retains paired program and workspace backups and confirms that the selected workspace and Native service are ready.
 
 Preview updates use RSA-SHA256 signed manifests and SHA-256 package verification. Windows binaries do not yet have an Authenticode publisher certificate, so Windows may report an unknown publisher. This preview channel is separate from the requirements for a formally signed stable release.
 
