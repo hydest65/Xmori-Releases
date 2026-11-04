@@ -8,7 +8,7 @@ Xmori is an independent local Windows desktop agent with its own Native runtime.
 
 Download the ZIP from an explicitly confirmed preview Release, extract all four components together into a writable application folder, and open `xusen-desktop.exe`. Select a separate data folder for your workspace. Keep the Desktop, Control, Office runtime and Image runtime together.
 
-Preview.114 is the initial update bootstrap. Older clients need this one-time installation because they do not contain the publisher's update public key. For the initial trust decision, confirm the download source and published SHA-256 through your trusted distributor. Subsequent versions are verified against the embedded update public key.
+Preview.116 is the corrected update bootstrap for Windows PowerShell5.1. Earlier previews need this one-time manual installation to obtain the current updater and publisher trust. For the initial trust decision, confirm the download source and published SHA-256 through your trusted distributor. Subsequent versions are verified against the embedded update public key.
 
 ## Later updates
 
