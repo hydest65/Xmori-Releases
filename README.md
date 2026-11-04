@@ -4,7 +4,7 @@ Xmori 是面向 Windows 的 AI 工作台，可以查资料、改代码、处理�
 
 **[下载 Windows x64 测试版 · Downloads & release notes](https://github.com/hydest65/Xmori-Releases/releases)**
 
-**[直接下载一次性引导版 preview.127（Windows x64 ZIP）](https://github.com/hydest65/Xmori-Releases/releases/download/preview2-v0.2.0-preview.127/Xmori-0.2.0-preview.127-windows-x64.zip)** · [版本说明](https://github.com/hydest65/Xmori-Releases/releases/tag/preview2-v0.2.0-preview.127)
+**[下载 preview.129 工作区修复版（Windows x64 ZIP）](https://github.com/hydest65/Xmori-Releases/releases/download/preview2-v0.2.0-preview.129/Xmori-0.2.0-preview.129-windows-x64.zip)** · [版本说明](https://github.com/hydest65/Xmori-Releases/releases/tag/preview2-v0.2.0-preview.129)
 
 - **首次安装**时，在发布页展开 **Assets**，下载名称以 `-windows-x64.zip` 结尾的程序包。核对发布方提供的 SHA-256，完整解压后打开 `xusen-desktop.exe`，为工作区选择单独的数据目录。
 - **从旧版切换**时，需要先手动安装一次这个引导版。之后在「设置 → 常规 → 检查更新」下载新通道的版本，再点「重启并安装」。第一代客户端继续使用自己的签名通道。
